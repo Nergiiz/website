@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../yenisite"
+		},
+		{
+			"path": "../imgyeni"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "klasör2"
+	}
+}
